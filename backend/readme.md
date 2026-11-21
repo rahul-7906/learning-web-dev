@@ -1,3 +1,6 @@
+<img width="1873" height="843" alt="Screenshot 2026-11-21 164700" src="https://github.com/user-attachments/assets/e71203cd-8b9b-4f44-a25a-69c7b7a6627e" />
+
+
 # File-Based Task Manager
 
 A lightweight notes and task management web app built with Node.js, Express, and EJS. Instead of using a database, it uses Node's built-in File System (`fs`) module to store every task locally as a `.txt` file.
